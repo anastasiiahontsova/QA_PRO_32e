@@ -23,6 +23,7 @@ public class ApplicationManager {
     PhoneBookContactsPageHelper phoneBookContactsPageHelper;
     PhoneBookRegistrationPageHelper phoneBookRegistrationPageHelper;
     PhoneBookLoginPageHelper phoneBookLoginPageHelper;
+
     public ApplicationManager(String browser) {
         this.browser = browser;
     }
@@ -105,6 +106,9 @@ public class ApplicationManager {
             e.printStackTrace();
         }
         return pathName;
+
     }
 
 }
+
+

@@ -5,33 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a87a2460-2a5a-4bdb-a882-aefde38695ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/Lesson11TableSelectors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/BaseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/MenuHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/PhoneBookContactsPageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/PhoneBookLoginPageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/PhoneBookRegistrationPageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/model/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookContactsPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookLoginPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookRegistrationPageTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/Lesson11SausedemoWebsite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/Lesson11TableSelectors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/TestProject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/Homework10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/Homework9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoLoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoMyCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoTestBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/phonebook/PhoneBookLoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/phonebook/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/DataProviders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/DataProviders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/PhoneBookLoginPageHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/PhoneBookLoginPageHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookContactsPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookContactsPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookLoginPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookLoginPageTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,38 +112,17 @@
       <recent name="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/phonebookframework/Model" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative">
-    <configuration name="QA_PRO_32e [smokyTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="smokyTest" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="TestNG.PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative (1)">
     <configuration name="PhoneBookContactsPageTests.testAddAndRemoveContactPositive" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_PRO_32e.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.hontsova.qa.pro.phonebook.tests.*" />
+          <option name="PATTERN" value="com.telran.hontsova.homework.phonebook.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telran.hontsova.qa.pro.phonebook.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookContactsPageTests" />
+      <option name="PACKAGE_NAME" value="com.telran.hontsova.homework.phonebook.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.hontsova.homework.phonebook.tests.PhoneBookContactsPageTests" />
       <option name="METHOD_NAME" value="testAddAndRemoveContactPositive" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -173,17 +131,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBookContactsPageTests.testAddAndRemoveContactPositiveFromFile" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneBookContactsPageTests.testAddAndRemoveContactPositiveFromFile (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_PRO_32e.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.hontsova.qa.pro.phonebook.tests.*" />
+          <option name="PATTERN" value="com.telran.hontsova.homework.phonebook.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telran.hontsova.qa.pro.phonebook.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookContactsPageTests" />
+      <option name="PACKAGE_NAME" value="com.telran.hontsova.homework.phonebook.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.hontsova.homework.phonebook.tests.PhoneBookContactsPageTests" />
       <option name="METHOD_NAME" value="testAddAndRemoveContactPositiveFromFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_PRO_32e.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.hontsova.homework.phonebook.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.hontsova.homework.phonebook.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.hontsova.homework.phonebook.tests.PhoneBookLoginPageTests" />
+      <option name="METHOD_NAME" value="testLoginFormWithDataProviderFromFileNegative" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -209,16 +185,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFilePositive" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFilePositive (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_PRO_32e.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.hontsova.qa.pro.phonebook.tests.*" />
+          <option name="PATTERN" value="com.telran.hontsova.homework.phonebook.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telran.hontsova.qa.pro.phonebook.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookLoginPageTests" />
+      <option name="PACKAGE_NAME" value="com.telran.hontsova.homework.phonebook.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.hontsova.homework.phonebook.tests.PhoneBookLoginPageTests" />
       <option name="METHOD_NAME" value="testLoginFormWithDataProviderFromFilePositive" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -229,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative" />
-        <item itemvalue="TestNG.PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFilePositive" />
-        <item itemvalue="TestNG.PhoneBookContactsPageTests.testAddAndRemoveContactPositiveFromFile" />
+        <item itemvalue="TestNG.PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative (1)" />
+        <item itemvalue="TestNG.PhoneBookContactsPageTests.testAddAndRemoveContactPositiveFromFile (1)" />
         <item itemvalue="TestNG.PhoneBookContactsPageTests.testAddAndRemoveContactPositive" />
-        <item itemvalue="Gradle.QA_PRO_32e [smokyTest]" />
+        <item itemvalue="TestNG.PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFilePositive (1)" />
+        <item itemvalue="TestNG.PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative" />
       </list>
     </recent_temporary>
   </component>

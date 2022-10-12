@@ -57,6 +57,7 @@ public class DataProviders {
         return list.iterator();
     }
 
+
     @DataProvider
     public Iterator<Object[]> UserDataFromFileToAddNewContact() {
         List<Object[]> list = new ArrayList<>();

@@ -15,6 +15,7 @@ public class PhoneBookLoginPageTests extends TestBase {
     public void testLoginFormWithDataProviderFromFilePositive(User user) {
         app.goToLoginPage();
         app.getPhoneBookLoginPageHelper().fillAndSubmitLoginFormWithParameters(user);
+        app.getPhoneBookLoginPageHelper().waitForPageToLoad();
         Assert.assertTrue(app.getMenuHelper().isUserSignedIn(), "Log Out button is present");
     }
 
@@ -24,9 +25,8 @@ public class PhoneBookLoginPageTests extends TestBase {
         app.goToLoginPage();
         app.getPhoneBookLoginPageHelper().fillAndSubmitLoginFormWithParameters(user);
         app.getPhoneBookLoginPageHelper().clickOnErrorAlert();
-        Assert.assertTrue(app.getPhoneBookLoginPageHelper().isLoginErrorMessagePresent
-                ("Login Failed with code 400"), "Login error message is present");
-        Assert.assertFalse(app.getMenuHelper().isUserSignedIn(), "User is not signed in");
+        app.getPhoneBookLoginPageHelper().waitForPageToLoad();
+        Assert.assertTrue(app.getPhoneBookLoginPageHelper().isFailedLoginMessagePresent("Login Failed with code"), "Login error message is present");
     }
 }
 

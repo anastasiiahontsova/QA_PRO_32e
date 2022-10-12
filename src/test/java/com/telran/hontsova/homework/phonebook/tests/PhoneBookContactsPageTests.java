@@ -26,7 +26,6 @@ public class PhoneBookContactsPageTests extends TestBase {
         app.getPhoneBookContactsPageHelper().fillUserInfoFieldsFormToAddContact(contact);
         Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() > 0, "Contact is added");
         app.getPhoneBookContactsPageHelper().removeContact();
-        //app.getPhoneBookContactsPageHelper().setImplicitWaitTimeSec();
         TimeUnit.SECONDS.sleep(5);
         Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() == 0, "Contact is deleted");
     }
@@ -38,7 +37,6 @@ public class PhoneBookContactsPageTests extends TestBase {
         app.getPhoneBookContactsPageHelper().fillUserInfoFieldsFormToAddContact(contact);
         Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() > 0, "Contact is added");
         app.getPhoneBookContactsPageHelper().removeContact();
-        //app.getPhoneBookContactsPageHelper().setImplicitWaitTimeSec();
         TimeUnit.SECONDS.sleep(5);
         Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() == 0, "Contact is deleted");
     }
