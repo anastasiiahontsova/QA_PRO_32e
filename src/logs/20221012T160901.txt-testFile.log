@@ -1,0 +1,21 @@
+208  [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml"
+330  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+330  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+330  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+332  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+333  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+333  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+334  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+334  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+334  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+334  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+334  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+335  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+338  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative(com.telran.hontsova.qa.pro.phonebook.model.User)[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookLoginPageTests@6c372fe6] 1904935514
+339  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+339  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+339  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+339  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+341  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+

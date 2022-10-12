@@ -1,0 +1,29 @@
+185  [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml"
+292  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+292  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+292  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+294  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+294  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+294  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+295  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+296  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+296  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+296  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+296  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+296  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+300  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderPositive(com.telran.hontsova.qa.pro.phonebook.model.User)[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.PhoneBookLoginPageTests@16aa8654] -89994269
+300  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+300  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+300  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+300  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+302  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+327  [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stat test by Anastasiia.
+2974 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderPositiveby Anastasiia.
+4058 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stat test by Anastasiia.
+6247 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderPositiveby Anastasiia.
+7330 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stat test by Anastasiia.
+9624 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderPositiveby Anastasiia.
+10705 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stat test by Anastasiia.
+12756 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderPositiveby Anastasiia.

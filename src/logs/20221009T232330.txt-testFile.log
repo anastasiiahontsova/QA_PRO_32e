@@ -1,0 +1,2 @@
+134  [Test worker] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/anastasiiahontsova/IdeaProjects/QA_PRO_32e/src/test/resources/testng.xml"
+144  [Test worker] ERROR org.testng.TestNG - No test suite found. Nothing to run

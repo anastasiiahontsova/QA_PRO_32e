@@ -1,0 +1,61 @@
+319  [Test worker] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/anastasiiahontsova/IdeaProjects/QA_PRO_32e/src/test/resources/testngSmoky.xml"
+580  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] -1733958010
+581  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+583  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+584  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+584  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+584  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+584  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+584  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+590  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+590  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+592  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+592  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+592  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+592  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+592  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+593  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+593  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+593  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+602  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+605  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+605  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+606  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+606  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+606  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+625  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+626  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+627  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] -1822814348
+627  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+628  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+628  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+628  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+628  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+628  [ForkJoinPool.commonPool-worker-2] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+629  [ForkJoinPool.commonPool-worker-2] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+630  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+630  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+630  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+630  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+631  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+631  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+632  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+632  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+637  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+638  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+638  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+638  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+638  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+639  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+658  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.testAddAndRemoveContactPositive(com.telran.hontsova.qa.pro.phonebook.model.Contact)[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookContactsPageTests@6f44a157] -1382292875
+659  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.TestRegistration()[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookRegistrationPageTests@56673b2c] -838369366
+660  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+661  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+661  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+661  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+733  [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stat test by Anastasiia.
+23379 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestAddAndRemoveContactPositiveby Anastasiia.
+24493 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stat test by Anastasiia.
+44832 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestAddAndRemoveContactPositiveby Anastasiia.
+45968 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stat test by Anastasiia.
+55744 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testTestRegistrationby Anastasiia.

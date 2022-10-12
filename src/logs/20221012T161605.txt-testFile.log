@@ -1,0 +1,107 @@
+215  [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml"
+329  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+329  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+329  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+331  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+331  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+331  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+332  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+332  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+332  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+333  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+333  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+333  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+337  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative(com.telran.hontsova.qa.pro.phonebook.model.User)[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookLoginPageTests@2a3888c1] 797727541
+337  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+337  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+337  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+337  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+339  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+372  [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+2279 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+2291 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+2365 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+2372 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+2413 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+2420 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+3475 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+13502 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+13526 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+15219 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+16759 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+16768 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+16837 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+16843 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+16885 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+16891 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+17929 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+27950 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+27953 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+29592 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+31095 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+31105 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+31179 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+31185 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+31226 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+31233 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+32272 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+42316 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+42319 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+43944 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+45354 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+45364 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+45432 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+45439 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+45480 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+45487 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+46523 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+56577 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+56580 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+58202 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+59681 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+59691 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+59761 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+59768 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+59807 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+59814 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+60854 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+60870 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+60870 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+70917 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+70918 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+72005 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+73606 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+73615 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+73683 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+73690 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+73730 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+73737 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+74777 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+74792 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+74793 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+84853 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+84855 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+85943 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+87396 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+87405 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+87475 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+87481 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+87523 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+87530 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+88569 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+88585 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+88585 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+98589 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+98591 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+99671 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+101115 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+101125 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+101196 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+101202 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+101242 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+101249 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+102289 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+112314 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+112316 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.

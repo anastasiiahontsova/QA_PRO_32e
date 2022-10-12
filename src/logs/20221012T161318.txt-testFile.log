@@ -1,0 +1,61 @@
+237  [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml"
+350  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+350  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+351  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+354  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+354  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+354  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+355  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+355  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+355  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+356  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+356  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+356  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+361  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFilePositive(com.telran.hontsova.qa.pro.phonebook.model.User)[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookLoginPageTests@2b175c00] -1616357568
+361  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+361  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+362  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+362  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+364  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+396  [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+2262 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+2274 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+2346 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+2352 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+2393 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+2400 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+2419 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+3098 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+3102 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFilePositiveby Anastasiia.
+4243 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+5801 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+5808 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+5879 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+5886 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+5928 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+5935 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+5950 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+6454 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+6455 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFilePositiveby Anastasiia.
+7543 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+9025 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+9033 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+9097 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+9104 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+9144 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+9151 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+9166 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+9837 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+9839 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFilePositiveby Anastasiia.
+10929 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+12351 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+12359 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+12428 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+12435 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+12476 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+12483 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+12499 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+13017 [main] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+13018 [main] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFilePositiveby Anastasiia.

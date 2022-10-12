@@ -1,0 +1,433 @@
+198  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11SausedemoWebsite.SetUp()[pri:0, instance:null] -1694703901
+200  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+203  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+203  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+203  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+204  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11SausedemoWebsite.tearDown()[pri:0, instance:null] 49758908
+205  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+206  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+206  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+206  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.SetUp()[pri:0, instance:null] -570003908
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.tearDown()[pri:0, instance:null] 1175319139
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+211  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestProject.SetUp()[pri:0, instance:null] -1794536233
+211  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+211  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+211  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+211  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+212  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestProject.tearDown()[pri:0, instance:null] 218239232
+212  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+212  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+212  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+212  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+214  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.setUp()[pri:0, instance:null] 787905365
+214  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+214  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+214  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+214  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.tearDown()[pri:0, instance:null] -1262970962
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.SetUp()[pri:0, instance:null] 1331810671
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+217  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.tearDown()[pri:0, instance:null] -680899288
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 872367454
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1244366240
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1424877949
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1447974491
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 872367454
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE ShoppingCartTests.shoppingCartSetUp()[pri:0, instance:null] -1329800166
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR ShoppingCartTests.shoppingCartSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR ShoppingCartTests.shoppingCartSetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1244366240
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR ShoppingCartTests.shoppingCartSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR ShoppingCartTests.shoppingCartSetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM NODE ShoppingCartTests.shoppingCartSetUp()[pri:0, instance:null]
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE ShoppingCartTests.shoppingCartSetUp()[pri:0, instance:null]
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               ShoppingCartTests.shoppingCartSetUp()[pri:0, instance:null]
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1424877949
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1447974491
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+249  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+252  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] -1733958010
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+253  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+254  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+254  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+254  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+254  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+254  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+254  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+254  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+255  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+255  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+255  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+256  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+256  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+256  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 2120423043
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] 129488633
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] -1822814348
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+259  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+260  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+260  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+260  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+261  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+261  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+261  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+261  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+261  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+262  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] -1644610942
+262  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] 1621457626
+262  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+263  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+263  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+263  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+265  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11SausedemoWebsite.testLoginBtn()[pri:0, instance:com.telran.hontsova.qa.pro.Lesson11SausedemoWebsite@67ab1c47] -842056916
+266  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11SausedemoWebsite.testFooter()[pri:0, instance:com.telran.hontsova.qa.pro.Lesson11SausedemoWebsite@67ab1c47] 1880557076
+266  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11SausedemoWebsite.testTableCssSelectors()[pri:0, instance:com.telran.hontsova.qa.pro.Lesson11SausedemoWebsite@67ab1c47] -1405484044
+266  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.testTableCssSelectors()[pri:0, instance:Lesson11TableSelectors@41925502] 1449772054
+266  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestProject.openGooglePage()[pri:0, instance:com.telran.hontsova.qa.pro.TestProject@13e3c1c7] -86047791
+266  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.testLocatorsForSearchInput()[pri:0, instance:Homework10@5316e95f] 287465853
+266  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.testLocatorsByID()[pri:0, instance:Homework9@3f053c80] -340007115
+266  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE LoginPageTests.testLoginFormPositive()[pri:0, instance:LoginPageTests@295eaa7c] 166361981
+267  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE ShoppingCartTests.testShoppingCartAddAndRemoveItem()[pri:0, instance:ShoppingCartTests@7894f09b] -273035757
+267  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderNegative(com.telran.hontsova.qa.pro.phonebook.model.User)[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.PhoneBookLoginPageTests@5b7ea70d] -325963944
+267  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderPositive(com.telran.hontsova.qa.pro.phonebook.model.User)[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.PhoneBookLoginPageTests@5b7ea70d] 1064758428
+267  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.testAddAndRemoveContactPositive(com.telran.hontsova.qa.pro.phonebook.model.Contact)[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookContactsPageTests@2bef51f2] 1783010064
+267  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.TestRegistration()[pri:0, instance:com.telran.hontsova.qa.pro.phonebook.tests.PhoneBookRegistrationPageTests@650eab8] 2112958262
+267  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+268  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+268  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+269  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+53104 [Test worker] INFO  c.t.h.q.p.h.saucedemo.fw.TestBase - Stat test by Anastasiia.
+55502 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: user-name
+55526 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: user-name
+55607 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: password
+55614 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: password
+55657 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: login-button
+55663 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: login-button
+55692 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: react-burger-menu-btn
+55698 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: react-burger-menu-btn
+55698 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: react-burger-menu-btn
+55703 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: react-burger-menu-btn
+55705 [Test worker] INFO  c.t.h.q.p.h.saucedemo.fw.TestBase - Stop testtestLoginFormPositiveby Anastasiia.
+58077 [Test worker] INFO  c.t.h.q.p.h.saucedemo.fw.TestBase - Stat test by Anastasiia.
+61299 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: user-name
+61323 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: user-name
+61402 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: password
+61419 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: password
+61464 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: login-button
+61471 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: login-button
+61501 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.id: react-burger-menu-btn
+61507 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.id: react-burger-menu-btn
+61804 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: #add-to-cart-sauce-labs-bolt-t-shirt
+71876 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such element: Unable to locate element: {"method":"css selector","selector":"#add-to-cart-sauce-labs-bolt-t-shirt"}
+  (Session info: chrome=105.0.5195.125)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50651}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57558146d0bf9d3b3cb765e22834703d
+*** Element info: {Using=css selector, value=#add-to-cart-sauce-labs-bolt-t-shirt}
+71877 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#add-to-cart-sauce-labs-bolt-t-shirt"}
+  (Session info: chrome=105.0.5195.125)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50651}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57558146d0bf9d3b3cb765e22834703d
+*** Element info: {Using=css selector, value=#add-to-cart-sauce-labs-bolt-t-shirt}
+71879 [Test worker] INFO  c.t.h.q.p.h.saucedemo.fw.TestBase - Stop testtestShoppingCartAddAndRemoveItemby Anastasiia.
+74510 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+76264 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+76288 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+76370 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+76386 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+76443 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+76482 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+77541 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+87570 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+87587 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderNegativeby Anastasiia.
+89248 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+90626 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+90635 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+90702 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+90709 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+90748 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+90756 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+91795 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+101851 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+101852 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderNegativeby Anastasiia.
+103542 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+104966 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+104975 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+105052 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+105059 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+105099 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+105106 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+106136 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+116175 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+116176 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderNegativeby Anastasiia.
+117807 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+119429 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+119438 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+119505 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+119511 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+119552 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+119558 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+120592 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+123880 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+123903 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderNegativeby Anastasiia.
+123923 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+123941 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+123981 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+123996 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+123999 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+123999 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124004 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124004 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124007 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124007 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124012 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124012 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124017 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124017 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124029 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124030 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124037 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124040 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50747}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a0f36650286a1f2e6b5977b30519c08
+124043 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+125551 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+125560 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+125634 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+125641 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+125687 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+125721 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+125738 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: button:nth-child(4)
+126970 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: button:nth-child(4)
+127030 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Stop testtestAddAndRemoveContactPositiveby Anastasiia.
+127062 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f335b233d89622e23ce49e6c5bb9d9fd
+127080 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f335b233d89622e23ce49e6c5bb9d9fd
+127085 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - Exception caught!no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f335b233d89622e23ce49e6c5bb9d9fd
+127085 [Test worker] DEBUG c.t.h.q.pro.phonebook.fw.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Air-Anastasiia.lan', ip: '2a0d:6fc2:5de0:6300:35b8:8d17:15a:742a%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.125, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/pr/8l5_p8qj0h7...}, goog:chromeOptions: {debuggerAddress: localhost:50763}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f335b233d89622e23ce49e6c5bb9d9fd
+127087 [Test worker] INFO  c.t.h.qa.pro.phonebook.fw.TestBase - Start test by Anastasiia.
+128704 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+128712 [Test worker] INFO  c.t.h.q.pro.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
