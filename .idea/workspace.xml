@@ -5,31 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a87a2460-2a5a-4bdb-a882-aefde38695ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Lesson11TableSelectors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/fw/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/fw/BaseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/fw/MenuHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/fw/PhoneBookContactsPageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/fw/PhoneBookLoginPageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/fw/PhoneBookRegistrationPageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/fw/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/model/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/tests/PhoneBookContactsPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/tests/PhoneBookLoginPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/phonebook/tests/PhoneBookRegistrationPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/Lesson11TableSelectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/ApplicationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/BaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/MenuHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/PhoneBookContactsPageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/PhoneBookLoginPageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/PhoneBookRegistrationPageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookContactsPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookLoginPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/tests/PhoneBookRegistrationPageTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/Lesson11SausedemoWebsite.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/Lesson11TableSelectors.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/TestProject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/Homework10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/tests/LoginPageTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoMyCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/tests/ShoppingCartTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/fw/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/Homework9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/Homework9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoLoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoMyCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/homework/saucedemo/SaucedemoTestBase.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/phonebook/PhoneBookLoginPage.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/phonebook/TestBase.java" beforeDir="false" />
     </list>
