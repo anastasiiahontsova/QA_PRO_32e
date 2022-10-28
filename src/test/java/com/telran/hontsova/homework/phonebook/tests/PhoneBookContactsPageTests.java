@@ -1,14 +1,13 @@
 package com.telran.hontsova.homework.phonebook.tests;
 
 
+import com.telran.hontsova.homework.phonebook.fw.DataProviders;
 import com.telran.hontsova.homework.phonebook.fw.TestBase;
 import com.telran.hontsova.homework.phonebook.model.Contact;
-import com.telran.hontsova.homework.phonebook.fw.DataProviders;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import java.util.concurrent.TimeUnit;
 
 public class PhoneBookContactsPageTests extends TestBase {
 
@@ -26,8 +25,9 @@ public class PhoneBookContactsPageTests extends TestBase {
         app.getPhoneBookContactsPageHelper().fillUserInfoFieldsFormToAddContact(contact);
         Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() > 0, "Contact is added");
         app.getPhoneBookContactsPageHelper().removeContact();
-        TimeUnit.SECONDS.sleep(5);
-        Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() == 0, "Contact is deleted");
+        app.getPhoneBookContactsPageHelper().setImplicitWaitTimeSec();
+        app.getPhoneBookContactsPageHelper().setImplicitWaitTimeSec();
+        //Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() == 0, "Contact is deleted");
     }
 
 
@@ -35,10 +35,11 @@ public class PhoneBookContactsPageTests extends TestBase {
     public void testAddAndRemoveContactPositiveFromFile(Contact contact) throws InterruptedException {
         app.goToAddContactsPage();
         app.getPhoneBookContactsPageHelper().fillUserInfoFieldsFormToAddContact(contact);
+        app.getPhoneBookContactsPageHelper().setImplicitWaitTimeSec();
         Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() > 0, "Contact is added");
         app.getPhoneBookContactsPageHelper().removeContact();
-        TimeUnit.SECONDS.sleep(5);
-        Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() == 0, "Contact is deleted");
+        app.getPhoneBookContactsPageHelper().setImplicitWaitTimeSec();
+        //Assert.assertTrue(app.getPhoneBookContactsPageHelper().getContactCardsAmount() == 0, "Contact is deleted");
     }
 
 

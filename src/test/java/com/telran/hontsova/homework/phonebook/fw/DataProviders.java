@@ -14,36 +14,36 @@ import java.util.List;
 public class DataProviders {
 
 
-        @DataProvider
+    @DataProvider
     public Iterator<Object[]> newUsersFromFilePositive() {
-            List<Object[]> list = new ArrayList<>();
-            try {
-                BufferedReader bufferedReader = new BufferedReader(new FileReader("src/test/resources/newUsersPositive.csv"));
-                String line = bufferedReader.readLine();
-                while (line != null) {
-                    String[] lineValues = line.split(",");
-                    list.add(new Object[]{new User(lineValues[0], lineValues[1])});
-                    line = bufferedReader.readLine();
-                }
-            } catch (IOException e) {
-                e.printStackTrace();
+        List<Object[]> list = new ArrayList<>();
+        try {
+            BufferedReader bufferedReader = new BufferedReader(new FileReader("src/test/resources/newUsersPositive.csv"));
+            String line = bufferedReader.readLine();
+            while (line != null) {
+                String[] lineValues = line.split(",");
+                list.add(new Object[]{new User(lineValues[0], lineValues[1])});
+                line = bufferedReader.readLine();
             }
-            return list.iterator();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
+        return list.iterator();
+    }
 
 
-     @DataProvider
+    @DataProvider
     public Iterator<Object[]> newUsersFromFileNegative() {
         List<Object[]> list = new ArrayList<>();
         try {
             BufferedReader bufferedReader = new BufferedReader(new FileReader("src/test/resources/newUsersNegative.csv"));
             String line = bufferedReader.readLine();
-            while(line!=null){
-                String[] lineValues =  line.split(",");
-                list.add(new Object[]{ new User(lineValues[0],lineValues[1])});
+            while (line != null) {
+                String[] lineValues = line.split(",");
+                list.add(new Object[]{new User(lineValues[0], lineValues[1])});
                 line = bufferedReader.readLine();
             }
-        } catch (IOException e){
+        } catch (IOException e) {
             e.printStackTrace();
         }
         return list.iterator();
@@ -64,12 +64,12 @@ public class DataProviders {
         try {
             BufferedReader bufferedReader = new BufferedReader(new FileReader("src/test/resources/userData.csv"));
             String line = bufferedReader.readLine();
-            while(line!=null){
-                String[] lineValues =  line.split(",");
-                list.add(new Object[]{ new Contact(lineValues[0], lineValues[1], lineValues[2], lineValues[3], lineValues[4], lineValues[5])});
+            while (line != null) {
+                String[] lineValues = line.split(",");
+                list.add(new Object[]{new Contact(lineValues[0], lineValues[1], lineValues[2], lineValues[3], lineValues[4], lineValues[5])});
                 line = bufferedReader.readLine();
             }
-        } catch (IOException e){
+        } catch (IOException e) {
             e.printStackTrace();
         }
         return list.iterator();
@@ -100,7 +100,6 @@ public class DataProviders {
 //        list.add(new Object[]{new User("testlogin3@gmail.com", "Test111111111!_")});
 //        return list.iterator();
 //    }
-
 
 
 }

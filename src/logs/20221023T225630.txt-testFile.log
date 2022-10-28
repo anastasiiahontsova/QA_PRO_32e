@@ -1,0 +1,35 @@
+209  [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml"
+322  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -554436972
+322  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] -1327371783
+323  [main] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+323  [main] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+323  [main] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+324  [main] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+324  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] -1490602262
+324  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+325  [main] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+326  [main] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+326  [main] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+326  [main] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+326  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+326  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+327  [main] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+327  [main] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+327  [main] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+327  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+328  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] 1153243883
+328  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] -1176413645
+328  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+329  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+329  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+329  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+330  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.TestRegistrationWithRecording()[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookRegistrationPageTests@6c372fe6] -1791274016
+331  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+331  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+331  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+331  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+333  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/anastasiiahontsova/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+366  [main] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+2348 [main] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testTestRegistrationWithRecordingby Anastasiia.

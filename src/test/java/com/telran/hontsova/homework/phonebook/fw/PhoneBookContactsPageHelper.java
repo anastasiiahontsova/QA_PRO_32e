@@ -21,6 +21,7 @@ public class PhoneBookContactsPageHelper extends BaseHelper {
     public static final String INPUT_FIELD_DESCRIPTION_XPATH_STR = "//input[@placeholder='description']";
     public static final String BUTTON_SAVE_TO_ADD_CONTACT_XPATH_STR = "//b[contains(text(), 'Save')]";
     public static final int IMPLICIT_WAIT_TIME_SEC = 5;
+
     public PhoneBookContactsPageHelper(WebDriver webDriver) {
         super(webDriver);
     }

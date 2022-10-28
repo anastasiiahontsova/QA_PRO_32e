@@ -9,6 +9,9 @@ import org.openqa.selenium.remote.BrowserType;
 import org.openqa.selenium.safari.SafariDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
+import java.awt.*;
+import java.awt.geom.AffineTransform;
+import java.awt.image.ColorModel;
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
@@ -109,6 +112,18 @@ public class ApplicationManager {
 
     }
 
+    Recorder recorder;
+    public void startRecording() throws IOException, AWTException {
+        String pathName = "records/recording";
+
+        GraphicsConfiguration gc = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().getDefaultConfiguration();
+        recorder = new Recorder(gc, pathName);
+        recorder.start();
+
+    }
+    public void stopRecording() throws IOException {
+        recorder.stop();
+    }
 }
 
 

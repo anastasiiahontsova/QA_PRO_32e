@@ -27,6 +27,7 @@ public class PhoneBookLoginPageHelper extends BaseHelper {
         webDriver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
         isUserSignedIn();
     }
+
     public void fillAndSubmitLoginForm() {
         fillInputField(By.cssSelector(LOGIN_CSS_SELECTOR_STR), VALID_USER_EMAIL);
         fillInputField(By.cssSelector(PWD_CSS_SELECTOR_STR), VALID_USER_PSW);
@@ -72,9 +73,7 @@ public class PhoneBookLoginPageHelper extends BaseHelper {
     public boolean isFailedLoginMessagePresent(String errorMsgTextStr) {
         if (webDriver.findElements(By.xpath("//div[text() = 'Login Failed with code 400']")).size() > 0)
             return true;
-               else if (webDriver.findElements(By.xpath("//div[text() = 'Login Failed with code 500']")).size() > 0)
-                   return true;
-               else return false;
+        else return webDriver.findElements(By.xpath("//div[text() = 'Login Failed with code 500']")).size() > 0;
     }
 }
 

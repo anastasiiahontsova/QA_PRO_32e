@@ -6,6 +6,9 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import java.awt.*;
+import java.io.IOException;
+
 
 public class PhoneBookRegistrationPageTests extends TestBase {
 
@@ -16,10 +19,11 @@ public class PhoneBookRegistrationPageTests extends TestBase {
     }
 
     @Test
-    public void TestRegistration() throws InterruptedException {
-
+    public void TestRegistrationWithRecording() throws InterruptedException /*throws InterruptedException, IOException, AWTException*/ {
+        //app.startRecording();
         app.getPhoneBookRegistrationPageHelper().registerUser(NewGeneratedUser);
         Assert.assertTrue(app.getMenuHelper().isUserSignedIn(), "New user is registered and signed in");
+        //app.stopRecording();
     }
 
 

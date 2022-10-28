@@ -15,6 +15,7 @@ public class BaseHelper {
     public static final String INVALID_USER_EMAIL = "invalidtestaddcontact@gmail.com";
     public static final String INVALID_USER_PSW = "invalidTest123456789!_";
     protected WebDriver webDriver;
+
     public BaseHelper(WebDriver webDriver) {
         this.webDriver = webDriver;
     }
