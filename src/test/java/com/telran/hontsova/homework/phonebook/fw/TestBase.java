@@ -12,6 +12,11 @@ import org.testng.annotations.BeforeMethod;
 import java.lang.reflect.Method;
 
 public class TestBase {
+
+    protected static ApplicationManager app = new ApplicationManager(System.getProperty("browser", BrowserType.CHROME));
+
+
+
     public static final String VALID_USER_EMAIL = "testaddcontact@gmail.com";
     public static final String VALID_USER_PSW = "Test123456789!_";
     public static final String INVALID_USER_EMAIL = "invalidtestaddcontact@gmail.com";
@@ -40,13 +45,14 @@ public class TestBase {
     public static final String NO_CONTACTS_HERE_XPATH = "//h1[contains(text(),  'No Contacts here!')]";
     public static final String NO_CONTACTS_HERE_MESSAGE = "Contact deleted. No contacts here!";
     static final int WAITING_TIME_SEC = 10;
-    protected static ApplicationManager app = new ApplicationManager(System.getProperty("browser", BrowserType.CHROME));
+
     public User NewGeneratedUser = new User(generateUserEmail(), "Test123456789!_");
-    protected Logger logger = LoggerFactory.getLogger(TestBase.class);
 
     public String generateUserEmail() {
         return "email" + System.currentTimeMillis() + "@gmail.com";
     }
+
+    protected Logger logger = LoggerFactory.getLogger(TestBase.class);
 
     @BeforeMethod
     public void setUp() {

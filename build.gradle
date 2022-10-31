@@ -16,15 +16,16 @@ dependencies {
     implementation 'com.github.stephenc.monte:monte-screen-recorder:0.7.7.0'
 }
 
-task smokyTest(type: Test) {
+test {
     useTestNG()
 }
 
-task testy(type: Test) {
+task testy (type: Test) {
     useTestNG()
-    if (project.hasProperty('browser')) {
+    if (project.hasProperty('browser') ) {
         systemProperty 'browser', "${browser}"
     }
+}
 
     task registerUser(type: Test) {
         useTestNG() {
@@ -45,6 +46,6 @@ task testy(type: Test) {
     }
 
 
-}
+
 
 

@@ -1,0 +1,86 @@
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] -1767480189
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -554436972
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+220  [ForkJoinPool.commonPool-worker-3] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+223  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+223  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+223  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+224  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] 1153243883
+224  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+224  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+224  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+224  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -554436972
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] 1153243883
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+228  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+229  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+229  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+230  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -554436972
+231  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] -1327371783
+231  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+231  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+231  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+231  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+231  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+231  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+231  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] 1153243883
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+237  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.setUp()[pri:0, instance:null] 1599917772
+238  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+238  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+238  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+238  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+238  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.tearDown()[pri:0, instance:null] -988667341
+238  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+238  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+238  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+239  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.SetUp()[pri:0, instance:null] 266948244
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.tearDown()[pri:0, instance:null] -1746742709
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.SetUp()[pri:0, instance:null] -281141823
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.tearDown()[pri:0, instance:null] 1999995418
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+247  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+249  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.testAddAndRemoveContactPositiveFromFile(com.telran.hontsova.homework.phonebook.model.Contact)[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookContactsPageTests@30bcf3c1] -632595900
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.testAddAndRemoveContactPositive(com.telran.hontsova.homework.phonebook.model.Contact)[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookContactsPageTests@30bcf3c1] -1253935486
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative(com.telran.hontsova.homework.phonebook.model.User)[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookLoginPageTests@2ece4966] -1806204325
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFilePositive(com.telran.hontsova.homework.phonebook.model.User)[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookLoginPageTests@2ece4966] 1803110183
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.TestRegistrationWithRecording()[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookRegistrationPageTests@1dd0e7c4] 1188367294
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.testLocatorsForSearchInput()[pri:0, instance:com.telran.hontsova.homework.Homework10@3d484181] 935509674
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.testLocatorsByID()[pri:0, instance:com.telran.hontsova.homework.Homework9@6111ba37] -599638673
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.testTableCssSelectors()[pri:0, instance:com.telran.hontsova.homework.Lesson11TableSelectors@7be58f16] 2094998309
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+251  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+252  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+252  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES

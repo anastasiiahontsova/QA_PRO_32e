@@ -1,0 +1,23 @@
+136  [Test worker] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/anastasiiahontsova/IdeaProjects/QA_PRO_32e/src/test/resources/testRegisterUser.xml"
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -554436972
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] -1327371783
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+220  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] 1153243883
+220  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+220  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+220  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+220  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+221  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.TestRegistrationWithRecording()[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookRegistrationPageTests@19fb8826] 1124052000
+221  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+221  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+221  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES

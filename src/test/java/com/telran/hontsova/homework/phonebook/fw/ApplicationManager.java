@@ -3,6 +3,7 @@ package com.telran.hontsova.homework.phonebook.fw;
 import com.google.common.io.Files;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.BrowserType;
@@ -17,8 +18,9 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public class ApplicationManager {
+//    protected String browser;
+//    protected WebDriver webDriver;
 
-    //public static WebDriver webDriver;
     protected EventFiringWebDriver webDriver;
     protected String browser;
     BaseHelper baseHelper;
@@ -53,7 +55,17 @@ public class ApplicationManager {
 
 
     public void initApp() {
-        //webDriver = new EventFiringWebDriver(new ChromeDriver());
+
+
+//        if (browser.equals(BrowserType.CHROME))
+//            webDriver = new ChromeDriver();
+//        else if (browser.equals(BrowserType.FIREFOX))
+//            webDriver = new FirefoxDriver();
+//        else if (browser.equals(BrowserType.SAFARI))
+//            webDriver = new SafariDriver();
+
+
+        webDriver = new EventFiringWebDriver(new ChromeDriver());
 
         if (browser.equals(BrowserType.CHROME))
             webDriver = new EventFiringWebDriver(new ChromeDriver());
