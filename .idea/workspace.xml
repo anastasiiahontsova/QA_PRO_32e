@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a87a2460-2a5a-4bdb-a882-aefde38695ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logs/20221028T192315.txt-testFile.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/logs/20221028T192315.txt-testFile.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/phonebook/fw/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/Homework10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/hontsova/homework/Homework10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testngSmoky.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testngTesty.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +105,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/com/telran/hontsova/qa/pro/phonebookframework/Model" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.QA_PRO_32e [registerUser]">
+  <component name="RunManager" selected="Gradle.QA_PRO_32e [testy]">
     <configuration name="QA_PRO_32e [registerUser]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -208,8 +206,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.QA_PRO_32e [registerUser]" />
         <item itemvalue="Gradle.QA_PRO_32e [testy]" />
+        <item itemvalue="Gradle.QA_PRO_32e [registerUser]" />
         <item itemvalue="Gradle.QA_PRO_32e [smoky]" />
         <item itemvalue="TestNG.PhoneBookContactsPageTests" />
         <item itemvalue="TestNG.PhoneBookContactsPageTests.testAddAndRemoveContactPositive" />

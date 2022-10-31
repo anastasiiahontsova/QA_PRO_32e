@@ -1,0 +1,362 @@
+208  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.setUp()[pri:0, instance:null] 1599917772
+213  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+215  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.tearDown()[pri:0, instance:null] -988667341
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+216  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.SetUp()[pri:0, instance:null] 266948244
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+218  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.tearDown()[pri:0, instance:null] -1746742709
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+219  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.SetUp()[pri:0, instance:null] -281141823
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.tearDown()[pri:0, instance:null] 1999995418
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+222  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+229  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] -1767480189
+229  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+229  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+229  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+230  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+230  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -554436972
+230  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] -1490602262
+230  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+231  [ForkJoinPool.commonPool-worker-3] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+231  [ForkJoinPool.commonPool-worker-3] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+232  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookContactsPageTests.loginUserSetUp()[pri:0, instance:null]
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] 1153243883
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] -1176413645
+233  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+234  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -554436972
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] -1490602262
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+240  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] 1153243883
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] -1176413645
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+241  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+243  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -554436972
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] -1327371783
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setUp()[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM INDEPENDENT OBJECTS
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] -1490602262
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setUp()[pri:0, instance:null]
+244  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   ADDING PREDECESSOR FOR PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null] ==> TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph]   REMOVED PRED TestBase.setUp()[pri:0, instance:null] FROM NODE PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setBeforeTestLogger(java.lang.reflect.Method)[pri:0, instance:null]
+245  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               TestBase.setUp()[pri:0, instance:null]
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph]               PhoneBookRegistrationPageTests.SetUp()[pri:0, instance:null]
+246  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+247  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tearDown(org.testng.ITestResult)[pri:0, instance:null] 1153243883
+247  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.setAfterTestLogger(java.lang.reflect.Method)[pri:0, instance:null] -1176413645
+247  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+247  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+247  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+247  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework10.testLocatorsForSearchInput()[pri:0, instance:com.telran.hontsova.homework.Homework10@25e2a451] 542974330
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Homework9.testLocatorsByID()[pri:0, instance:com.telran.hontsova.homework.Homework9@55b5f5d2] -790202102
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Lesson11TableSelectors.testTableCssSelectors()[pri:0, instance:com.telran.hontsova.homework.Lesson11TableSelectors@5bfa8cc5] 1559503060
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.testAddAndRemoveContactPositiveFromFile(com.telran.hontsova.homework.phonebook.model.Contact)[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookContactsPageTests@295eaa7c] -756215553
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookContactsPageTests.testAddAndRemoveContactPositive(com.telran.hontsova.homework.phonebook.model.Contact)[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookContactsPageTests@295eaa7c] -1377555139
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFileNegative(com.telran.hontsova.homework.phonebook.model.User)[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookLoginPageTests@4721d212] -1398076665
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookLoginPageTests.testLoginFormWithDataProviderFromFilePositive(com.telran.hontsova.homework.phonebook.model.User)[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookLoginPageTests@4721d212] -2083729453
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE PhoneBookRegistrationPageTests.TestRegistrationWithRecording()[pri:0, instance:com.telran.hontsova.homework.phonebook.tests.PhoneBookRegistrationPageTests@1b065145] 1141536063
+250  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+251  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+251  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+251  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+90128 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+93415 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+93427 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+93519 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+93526 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+93567 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+93574 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+93591 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: button:nth-child(4)
+95618 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: button:nth-child(4)
+95883 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Name']
+95892 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Name']
+95938 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Last Name']
+95944 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Last Name']
+95984 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Phone']
+95990 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Phone']
+96029 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='email']
+96035 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='email']
+96076 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Address']
+96084 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Address']
+96127 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='description']
+96133 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='description']
+96175 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //b[contains(text(), 'Save')]
+96182 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //b[contains(text(), 'Save')]
+96198 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .contact-item_card__2SOIM
+96533 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .contact-item_card__2SOIM
+96536 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .contact-item_card__2SOIM
+96546 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .contact-item_card__2SOIM
+96571 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(),'Remove')]
+96580 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(),'Remove')]
+96602 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestAddAndRemoveContactPositiveby Anastasiia.
+97694 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+102928 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+102942 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+103030 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+103037 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+103077 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+103084 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+103101 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: button:nth-child(4)
+105123 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: button:nth-child(4)
+105336 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Name']
+105348 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Name']
+105402 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Last Name']
+105408 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Last Name']
+105449 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Phone']
+105456 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Phone']
+105494 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='email']
+105501 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='email']
+105542 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Address']
+105549 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Address']
+105592 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='description']
+105598 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='description']
+105639 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //b[contains(text(), 'Save')]
+105646 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //b[contains(text(), 'Save')]
+105661 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .contact-item_card__2SOIM
+106001 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .contact-item_card__2SOIM
+106001 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .contact-item_card__2SOIM
+106012 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .contact-item_card__2SOIM
+106038 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(),'Remove')]
+106047 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(),'Remove')]
+106072 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestAddAndRemoveContactPositiveby Anastasiia.
+107164 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+111398 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+111409 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+111486 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+111492 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+111533 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+111539 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+111557 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: button:nth-child(4)
+113573 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: button:nth-child(4)
+113793 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Name']
+113806 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Name']
+113864 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Last Name']
+113871 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Last Name']
+113909 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Phone']
+113915 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Phone']
+113953 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='email']
+113960 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='email']
+114000 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Address']
+114006 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Address']
+114047 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='description']
+114053 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='description']
+114092 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //b[contains(text(), 'Save')]
+114098 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //b[contains(text(), 'Save')]
+114116 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .contact-item_card__2SOIM
+114441 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .contact-item_card__2SOIM
+114442 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .contact-item_card__2SOIM
+114450 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .contact-item_card__2SOIM
+114470 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(),'Remove')]
+114477 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(),'Remove')]
+114496 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestAddAndRemoveContactPositiveFromFileby Anastasiia.
+115585 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+118354 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+118367 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+118450 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+118457 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+118496 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+118503 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+118520 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: button:nth-child(4)
+120567 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: button:nth-child(4)
+120773 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Name']
+120784 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Name']
+120836 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Last Name']
+120842 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Last Name']
+120882 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Phone']
+120888 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Phone']
+120928 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='email']
+120935 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='email']
+120977 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='Address']
+120985 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='Address']
+121025 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //input[@placeholder='description']
+121031 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //input[@placeholder='description']
+121073 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //b[contains(text(), 'Save')]
+121079 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //b[contains(text(), 'Save')]
+121097 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .contact-item_card__2SOIM
+121431 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .contact-item_card__2SOIM
+121431 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .contact-item_card__2SOIM
+121443 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .contact-item_card__2SOIM
+121469 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(),'Remove')]
+121477 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(),'Remove')]
+121497 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestAddAndRemoveContactPositiveFromFileby Anastasiia.
+122592 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+127022 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+127037 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+127125 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+127132 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+127171 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+127177 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+128219 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+133238 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+133239 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 500']
+133257 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 500']
+133258 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+134350 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+137458 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+137469 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+137547 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+137554 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+137597 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+137603 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+138645 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+143685 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+143686 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 500']
+143699 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 500']
+143700 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+144790 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+149428 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+149441 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+149522 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+149528 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+149568 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+149574 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+150614 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+155629 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+155630 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 500']
+155644 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 500']
+155645 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+156735 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+161835 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+161848 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+161928 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+161934 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+161975 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+161982 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+163019 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+168062 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+168062 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 500']
+168076 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 500']
+168077 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+169167 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+173777 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+173789 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+173877 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+173886 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+173925 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+173932 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+174972 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+174985 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+174987 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+176074 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+179893 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+179914 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+179989 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+179995 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+180035 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+180041 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+181083 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+181097 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+181099 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+182182 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+185027 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+185039 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+185119 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+185126 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+185165 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+185171 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+186212 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+186225 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+186226 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+187311 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+191122 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+191134 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+191214 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+191221 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+191260 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+191269 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+192307 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 400']
+197359 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 400']
+197360 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //div[text() = 'Login Failed with code 500']
+197373 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //div[text() = 'Login Failed with code 500']
+197374 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFileNegativeby Anastasiia.
+198463 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+203280 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+203291 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+203367 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+203373 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+203413 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+203420 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+203436 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+204111 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+204112 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFilePositiveby Anastasiia.
+205202 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+208231 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+208240 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+208323 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+208331 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+208372 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+208378 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+208395 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+208954 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+208955 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFilePositiveby Anastasiia.
+210047 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+216718 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+216729 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+216813 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+216819 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+216859 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+216866 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+216884 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+217560 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+217561 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFilePositiveby Anastasiia.
+218759 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+221817 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+221828 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+221905 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+221911 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+221951 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[contains(text(), 'Login')]
+221958 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[contains(text(), 'Login')]
+221975 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+222819 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+222820 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testtestLoginFormWithDataProviderFromFilePositiveby Anastasiia.
+223912 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Start test by Anastasiia.
+226839 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(1)
+226852 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(1)
+229940 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: .login_login__3EHKB input:nth-child(2)
+229955 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: .login_login__3EHKB input:nth-child(2)
+233024 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.cssSelector: button:nth-child(5)
+233042 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.cssSelector: button:nth-child(5)
+233073 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Trying to find element by locator:By.xpath: //button[text()='Sign Out']
+233755 [Test worker] INFO  c.t.h.h.phonebook.fw.MyListener - Found element by locatorBy.xpath: //button[text()='Sign Out']
+233756 [Test worker] INFO  c.t.h.h.phonebook.fw.TestBase - Stop testTestRegistrationWithRecordingby Anastasiia.

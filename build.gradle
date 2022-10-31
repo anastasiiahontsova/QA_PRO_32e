@@ -20,7 +20,7 @@ test {
     useTestNG()
 }
 
-task testy (type: Test) {
+task smokeTests(type: Test) {
     useTestNG()
     if (project.hasProperty('browser') ) {
         systemProperty 'browser', "${browser}"
@@ -36,9 +36,9 @@ task testy (type: Test) {
         }
     }
 
-    task smoky(type: Test) {
+    task testy(type: Test) {
         useTestNG() {
-            suites 'src/test/resources/testngSmoky.xml'
+            suites 'src/test/resources/testngTesty.xml'
         }
         if (project.hasProperty('browser')) {
             systemProperty 'browser', "${browser}"
