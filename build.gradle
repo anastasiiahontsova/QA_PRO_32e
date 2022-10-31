@@ -20,7 +20,7 @@ test {
     useTestNG()
 }
 
-task smokeTests(type: Test) {
+task smoke(type: Test) {
     useTestNG()
     if (project.hasProperty('browser') ) {
         systemProperty 'browser', "${browser}"
